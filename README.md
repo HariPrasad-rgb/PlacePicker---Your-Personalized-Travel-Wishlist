@@ -1,6 +1,11 @@
 Description:
 PlacePicker is a visually stunning React application designed for travel enthusiasts to create their personalized collection of places they wish to visit or have already explored. With an intuitive and elegant UI, you can seamlessly manage your travel wishlist and keep track of your dream destinations.
 
+## Live Demo
+
+Check out the live version of the app here: [PlacePicker](https://pickyourplace.netlify.app)
+
+
 Features:
 Add to Wishlist:
 
